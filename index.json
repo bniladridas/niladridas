@@ -1,0 +1,95 @@
+{
+  "html": {
+    "lang": "en",
+    "title": "Niladri Das",
+    "description": "Follow me on internet",
+    "favicon": "/favicon.svg"
+  },
+  "background": {
+    "firstColor": "#454281",
+    "secondColor": "#B38AC2"
+  },
+  "header": {
+    "image": "/profile.png",
+    "alt": "The owner of this website.",
+    "title": "Niladri Das",
+    "description": "Full Stack Developer",
+    "textColor": "white"
+  },
+  "socials": [
+    {
+      "network": "GitHub",
+      "username": "bniladridas",
+      "url": "https://github.com/bniladridas"
+    },
+    {
+      "network": "LinkedIn",
+      "username": "bniladridas",
+      "url": "https://www.linkedin.com/in/bniladridas/?locale=en_US"
+    },
+    {
+      "network": "X",
+      "username": "bniladridas",
+      "url": "https://www.x.com/bniladridas"
+    },
+    {
+      "network": "Mail",
+      "username": "niladridas",
+      "url": "mailto:ndas1262000@gmail.com"
+    },
+    {
+      "network": "Link",
+      "username": "JSONLinks",
+      "url": "https://niladridas.hashnode.dev"
+    }
+  ],
+  "featured": [
+    {
+      "network": "GitHub",
+      "url": "https://github.com/bniladridas?tab=repositories",
+      "title": "Versatile professional with experience in software development, network infrastructure, electrical systems, cloud computing and neuroscience.",
+      "textColor": "#FFF",
+      "backgroundImage": "https://githubuniverse.com/og-image-24.jpg",
+      "backgroundColor": null,
+      "borderRadius": ".75rem"
+    }
+  ],
+  "buttons": [
+    {
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bniladridas/?locale=en_US",
+      "title": "Let's connect on LinkedIn",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "X",
+      "url": "https://www.x.com/bniladridas",
+      "title": "Follow me on X",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Mail",
+      "url": "mailto:ndas1262000@gmail.com",
+      "title": "Contact me anytime",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Link",
+      "url": "https://niladridas.hashnode.dev",
+      "title": "Show more blogs",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    }
+  ],
+  "footer": {
+    "copyright": "Built in VSC, 2024 🇮🇳",
+    "url": "https://code.visualstudio.com/"
+  }
+}
