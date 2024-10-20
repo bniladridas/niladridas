@@ -53,7 +53,7 @@ Link pages have become essential for both companies and individuals, but many "f
 ## Getting Started
 
 > [!IMPORTANT]
-> I'm glad to announce that this project is available on [Astro Themes!](https://astro.build/themes/details/astrolinkhub/) 🚀
+> I'm glad to announce that this project is available on my [X](https://x.com/bniladridas) 🚀
 
 ### Prerequisites
 
@@ -77,6 +77,16 @@ npm install -g pnpm
    cd niladridas
    npm install
    ```
+   
+   **Note:**
+   If you encounter the error `ERR_PNPM_OUTDATED_LOCKFILE Cannot install with "frozen-lockfile" because pnpm-lock.yaml is not up to date with package.json`, it means the `pnpm-lock.yaml` file is out of sync with your `package.json`. You can resolve this by using:
+   
+   ```bash
+   pnpm install --no-frozen-lockfile
+   ```
+   
+   This command will allow the lockfile to be updated accordingly.
+
 3. Run the Astro dev server:
    ```bash
    npm run dev
@@ -86,7 +96,7 @@ npm install -g pnpm
 
 ## JSON Customization
 
-The best part of AstroLinkHub is that you can modify every aspect of the website very easily by editing the `index.json` file. This JSON contains the following sections:
+The best part of my [portfolio](https://niladridas.vercel.app) is that you can modify every aspect of the website very easily by editing the `index.json` file. This JSON contains the following sections:
 
 ```json
 {
